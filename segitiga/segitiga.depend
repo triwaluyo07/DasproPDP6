@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1509638120 source:d:\pdp6\segitiga\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
